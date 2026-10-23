@@ -1,7 +1,7 @@
 [project]
 name = "saka"
 version = "0.1.0"
-description = "Add your description here"
+description = "Podcast transcriptlerinde anlam bazlı arama yapan bir arama motoru"
 readme = "README.md"
 authors = [
     { name = "tahaasann", email = "tahaasann@gmail.com" }
